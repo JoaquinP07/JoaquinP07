@@ -1,10 +1,11 @@
 # 👋 Hola!, Soy @JoaquinP07
 
-🚀 Sobre mi
-- 👩‍💻  Soy un apasionado por la tecnólogia, me gusta investigar sobre las nuevas implementaciones que surgen en un mundo tan cambiante y fascinante como el nuesto.
-- 🌱 Actualmente, me estoy incursionando en el área de ciberseguridad y Data Analytics, conociendo también esta potente red que es Github.
-- 💞️ Estoy disponible para colaborar con mis conocimentos y mis habilidades en cualquier proyecto que sea desafiante y me aporte conocimientos.
-- 📫 A quien lo desee, puede contactarme a través de mi perfil de LinkedIn o por este medio.
+🚀 Sobre mi:
+- 👩‍💻  Soy un apasionado por la tecnólogia, me gusta investigar sobre las nuevas implementaciones que surgen en un mundo tan cambiante y fascinante como el nuestro.
+- 🌱 Actualmente, me estoy incursionando en el área de Ciberseguridad y Data Analytics, conociendo también esta potente red que es Github.
+- 💞️ Estoy disponible para colaborar con mis conocimentos y mis habilidades en cualquier proyecto que sea desafiante y me aporte nuevas habilidades.
+- 📫 A quien lo desee, puede contactarme a través de mi perfil de LinkedIn o por este medio   <a href="https://x.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="Twitter Follow" /></a>
+
 - ⚡ Además de mi pasión por la tecnología, actualmente estoy formándome como Piloto Privado, lo que ha contribuído a desarrollar habilidades de disciplina, pensamiento analítico y toma de decisiones en situaciones desafiantes.
 
 ## 🛠 Skills
@@ -45,7 +46,7 @@ Participación y culminación en programa "Jóvenes a Programar": Ceibal, comple
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
-
+[![MIT License](https://www.coursera.org/account/accomplishments/verify/C3Z4ASJIE2W2)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -55,6 +56,27 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinrodrigopereyrapiriz07/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Special thanks
+
+<p>
+  <a href="http://www.browserstack.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
+      <img alt="BrowserStack logo" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
+    </picture>
+  </a>
+</p>
+
+[BrowserStack](http://www.browserstack.com/) supports us with [free access for open source](https://www.browserstack.com/open-source).
+
+[![Rocket Validator logo](./admin/img/rocketvalidator-logo.png)](https://rocketvalidator.com/)
+
+[Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.
 
 ## Feedback
 
