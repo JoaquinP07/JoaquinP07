@@ -45,10 +45,10 @@
 [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
 - 🧪 QA Testing:   
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-- )
-💾 Databases:   
+  Mantis, TestLink, JMeter
+- 💾 Databases:   
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - 🎨 Design:   
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
@@ -61,34 +61,30 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
 
- Testing Funcional, , Mantis, TestLink, JMeter
-Tecnologías Low-Code: GeneXus (Analista Genexus Jr.)
-Redes y Telecomunicaciones: Instalación de redes, Seguridad de redes, Servicios de Internet, Protocolos de red
-Herramientas de gestión: Mantis BugTracker,
-Reparación y mantenimiento de hardware: Reparación y mantenimiento de dispositivos informáticos, PC, Laptop, Impresoras, TV, Celulares y Tablets
-Electrónica básica: Conocimientos en electrónica, esenciales para la solución de problemas de hardware.
-Manejo de sistemas comerciales: Experiencia en MORE, BPS, BSE y otros relacionados con la administración y gestión de usuarios.
-Adaptabilidad y aprendizaje rápido: Alta capacidad para adaptarme a nuevas tecnologías y adquirir habilidades rápidamente en diversos entornos.
+- Tecnologías Low-Code: GeneXus (Analista Genexus Jr.).
+- Instalación de redes, Seguridad de redes, Servicios de Internet, Protocolos de red.
+- Reparación y mantenimiento de dispositivos informáticos, PC, Laptop, Impresoras, TV, Celulares y Tablets.
+- Conocimientos en electrónica, reparación de hardware.
 
 ### 🛠 Soft Skills
 
-Responsabilidad
-Trabajo en equipo
-Adaptabilidad
-Disposición para aprender
-Integridad
-Buen relacionamiento interpersonal
-Creatividad y proactividad
-Formación continua
+- Responsabilidad
+- Trabajo en equipo
+- Adaptabilidad
+- Disposición para aprender
+- Integridad
+- Buen relacionamiento interpersonal
+- Creatividad y proactividad
+- Formación continua
 
 ### Proyectos y/o Logros
 
-Mención Especial: Talleres Don Bosco "Compañerismo y solidaridad"
-Participación en proyecto RIVERBED: Instalación de optimizadores en las sucursales del BROU de todo el país
-Ascenso a personal superior: Casa de cambio de divisas en Cambio Rocha
-Colaboración en rehabilitación de infraestructura educativa: Aero Club Rocha
-Capacitación en Admisión / Atención al usuario: COMERO La Paloma
-Participación y culminación en programa "Jóvenes a Programar": Ceibal, completando con éxito las tres etapas de capacitación.
+- Mención Especial: Talleres Don Bosco "Compañerismo y solidaridad"
+- Participación en proyecto RIVERBED: Instalación de optimizadores en las sucursales del BROU de todo el país
+- Ascenso a personal superior: Casa de cambio de divisas en Cambio Rocha
+- Colaboración en rehabilitación de infraestructura educativa: Aero Club Rocha
+- Capacitación en Admisión / Atención al usuario: COMERO La Paloma
+- Participación y culminación en programa "Jóvenes a Programar": Ceibal, completando con éxito las tres etapas de capacitación.
 
 ### Badges
 
@@ -97,24 +93,51 @@ Participación y culminación en programa "Jóvenes a Programar": Ceibal, comple
 <table>
   <tr>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
-      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Titulo%20Tecn%C3%B3logo%20en%20Inform%C3%A1tica%20-%20Talleres%20Don%20Bosco.png" alt="Título Tecnólogo en Informática - Talleres Don Bosco" width="400">
+      <img   src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Titulo%20Tecn%C3%B3logo%20en%20Inform%C3%A1tica%20-%20Talleres%20Don%20Bosco.png" alt="Título Tecnólogo en Informática - Talleres Don Bosco" width="400">
       <br>
-    </td>
       <p>Título Tecnólogo en Informática - Talleres Don Bosco</p>
     </td>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Mencion%20especial%2C%20Compa%C3%B1erismo%20y%20solidaridad-%20Talleres%20Don%20Bosco.png" alt="Mencion especial - Compañerismo y solidaridad" width="400">
       <br>
+      <p>Mencion especial - Compañerismo y solidaridad</p>
     </td>
- <p>Mencion especial - Compañerismo y solidaridad</p>
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
       <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Testing%20Funcional%20-%20Ceibal%2C%20J%C3%B3venes%20a%20programar.png" alt="Testing Funcional - Ceibal, Jóvenes a Programar" width="400">
       <br>
-    </td>
       <p>Testing Funcional - Ceibal, Jóvenes a Programar</p>
-
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Agile%20Explorer%20-%20Certificado%20IBM%20SkillsBuild.png" alt="Agile Explorer - Certificado IBM SkillsBuild" width="400">
+      <br>
+      <p>Agile Explorer - Certificado IBM SkillsBuild</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Programaci%C3%B3n%20web%2C%20HTML%2C%20CSS%20y%20JS%20-%20Egg.png" alt="Programación web, HTML, CSS y JS - Egg" width="400">
+      <br>
+      <p>Programación web, HTML, CSS y JS - Egg</p>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/IA%20para%20todos%20-%20Coursera.png" alt="IA para todos - Coursera" width="400">
+      <br>
+      <p>IA para todos - Coursera</p>
+    </td>
+  </tr>
+ <tr>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Fundamentos%20de%20Data%20Analytics%20-%20IBM%20SkillsBuild.png" alt="Fundamentos de Data Analytics - IBM SkillsBuild" width="400">
+      <br>
+      <p>Fundamentos de Data Analytics - IBM SkillsBuild</p>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Bases%20de%20GIT%2C%20GitHub%20-%20Certificado%20Desaf%C3%ADo%20Latam.png" alt="Bases de GIT, GitHub - Certificado Desafío Latam" width="400">
+      <br>
+      <p>Bases de GIT, GitHub - Certificado Desafío Latam</p>
+    </td>
   </tr>
 </table>
 
@@ -140,16 +163,13 @@ Participación y culminación en programa "Jóvenes a Programar": Ceibal, comple
   </a>
 </p>
 
-[BrowserStack](http://www.browserstack.com/) supports us with [free access for open source](https://www.browserstack.com/open-source).
+[![Desafío Latam](https://desafiolatam.com/)
 
-[![Rocket Validator logo](./admin/img/rocketvalidator-logo.png)](https://rocketvalidator.com/)
-
-[Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.
 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dsfsfds) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sad) 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=JoaquinP07&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -157,5 +177,5 @@ Participación y culminación en programa "Jóvenes a Programar": Ceibal, comple
 
 Si tienes algún comentario también puedes contactarme mediante e-mail joaquin.pereyra07@gmail.com
 
-#[(Back to top)](#top)
+[(Back to top)](#top)
 
