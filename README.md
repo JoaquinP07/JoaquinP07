@@ -88,8 +88,6 @@
 
 ### Badges
 
-### Badges
-
 <table>
   <tr>
     <td align="center" style="border: 1px solid #ccc; padding: 10px;">
@@ -145,31 +143,75 @@
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
 [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
 
-### 🔗 Links
+### 📝 Comentarios y devoluciones recibidas
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinrodrigopereyrapiriz07/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<div style="border: 2px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
+  
+  <strong>COMUNICACIÓN:</strong>  
+  <p style="font-size: 16px;">
+  <em>"Respeta las pautas y normas de los canales de comunicación. Logra transmitir opiniones, ideas, comentarios y/o sentimientos de forma adecuada y se destaca en su expresión tanto oral como escrita de forma asertiva. Respeta los tiempos de escucha y favorece la participación de los demás."</em>
+  </p>
+</div>
+
+---
+
+<div style="border: 2px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
+  
+  <strong>TRABAJO EN EQUIPO:</strong>  
+  <p style="font-size: 16px;">
+  <em>"Tiene gran disposición para trabajar en equipo y muestra sólidas habilidades para desempeñarse en el trabajo con otras personas. Logra sentido de pertenencia, compromiso, liderazgo, autocrítica e iniciativa para coordinar acciones y perseguir los objetivos comunes del equipo e incluso alcanzar los mejores resultados posibles. Se relaciona de manera empática, respetuosa y asertiva con los demás integrantes, favoreciendo el aprendizaje colaborativo."</em>
+  </p>
+</div>
+
+---
+
+<div style="border: 2px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
+  
+  <strong>PROACTIVIDAD:</strong>  
+  <p style="font-size: 16px;">
+  <em>"Demuestra autonomía e intención resolutiva ante los problemas que se puedan presentar. Busca apoyo externo si no cuenta con las herramientas o recursos personales para resolver obstáculos en la cursada."</em>
+  </p>
+</div>
+
+---
+
+<div style="border: 2px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
+  
+  <strong>DETERMINACIÓN (GRIT):</strong>  
+  <p style="font-size: 16px;">
+  <em>"Cumple con los requisitos del curso de forma perseverante, responsable y comprometida. Sostiene su objetivo y enfrenta con motivación los obstáculos y contratiempos que se le presentan. Logra autosuperarse ya que visualiza e incorpora posibles mejoras en su proceso de aprendizaje."</em>
+  </p>
+</div>
+
+---
+
+<div style="border: 2px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9; margin-bottom: 20px;">
+  
+  <strong>RELACIONES INTERPERSONALES:</strong>  
+  <p style="font-size: 16px;">
+  <em>"Se identifica gran capacidad de empatía, solidaridad, trato amable y respetuoso al relacionarse. Demuestra facilidad para vincularse con todos los actores del curso. Participa activamente en todos los espacios de intercambio. Se visualiza sólida capacidad de liderazgo que favorece al buen clima grupal."</em>
+  </p>
+</div>
+
+---
+
+### 📄 Consulta el perfil de egreso completo aquí:
+[Consulta el perfil de egreso completo!](https://github.com/JoaquinP07/JoaquinP07/blob/main/Rubrica%20y%20perfil%20de%20egreso%20-%20Ceibal.pdf)
 
 
 ### Special thanks
 
-<p>
-  <a href="http://www.browserstack.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
-      <img alt="BrowserStack logo" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
-    </picture>
-  </a>
-</p>
-
-[![Desafío Latam](https://desafiolatam.com/)
-
+- Ceibal  (https://jovenesaprogramar.edu.uy/)
+- IBM SkillsBuild   (https://skillsbuild.org/)
+- Desafío Latam   (https://desafiolatam.com/)
+- Coursera   (https://www.coursera.org/)
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dsfsfds) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinrodrigopereyrapiriz07/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com) 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/JoaquinP07)
 
 [![](https://visitcount.itsvg.in/api?id=JoaquinP07&icon=0&color=0)](https://visitcount.itsvg.in)
 
