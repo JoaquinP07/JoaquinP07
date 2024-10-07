@@ -92,7 +92,33 @@ Participación y culminación en programa "Jóvenes a Programar": Ceibal, comple
 
 ### Badges
 
-[![Titulo Tecnólogo en Informática - Talleres Don Bosco](Titulo Tecnólogo en Informática - Talleres Don Bosco.png)
+### Badges
+
+<table>
+  <tr>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Titulo%20Tecn%C3%B3logo%20en%20Inform%C3%A1tica%20-%20Talleres%20Don%20Bosco.png" alt="Título Tecnólogo en Informática - Talleres Don Bosco" width="400">
+      <br>
+    </td>
+      <p>Título Tecnólogo en Informática - Talleres Don Bosco</p>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Mencion%20especial%2C%20Compa%C3%B1erismo%20y%20solidaridad-%20Talleres%20Don%20Bosco.png" alt="Mencion especial - Compañerismo y solidaridad" width="400">
+      <br>
+    </td>
+ <p>Mencion especial - Compañerismo y solidaridad</p>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid #ccc; padding: 10px;">
+      <img src="https://github.com/JoaquinP07/JoaquinP07/blob/main/Testing%20Funcional%20-%20Ceibal%2C%20J%C3%B3venes%20a%20programar.png" alt="Testing Funcional - Ceibal, Jóvenes a Programar" width="400">
+      <br>
+    </td>
+      <p>Testing Funcional - Ceibal, Jóvenes a Programar</p>
+
+  </tr>
+</table>
+
+
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
 [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
 
