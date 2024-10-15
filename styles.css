@@ -1,0 +1,51 @@
+/* Archivo styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: url('assets/svg/bk.svg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    color: #2E86C1;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente para mejor legibilidad */
+}
+
+.badge {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+table td {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+table img {
+    width: 100%;
+    max-width: 400px;
+}
+
+a {
+    color: #2E86C1;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
